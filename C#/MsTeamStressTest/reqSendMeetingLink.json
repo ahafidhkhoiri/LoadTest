@@ -1,0 +1,16 @@
+{
+  "name": "composeExtension/fetchTask",
+  "type": "invoke",
+  "channelId": "SomeId",
+  "serviceUrl": "https://SomeUrl",
+  "from": {
+    "aadObjectId": "msid"
+  },
+  "value": {
+    "commandId": "SomeCOmmand",
+    "commandContext": "compose",
+    "context": {
+      "theme": "default"
+    }
+  }
+}

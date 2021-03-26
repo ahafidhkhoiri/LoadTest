@@ -1,0 +1,8 @@
+{
+  "MY_URL": "https://loopupmicrosoftteamsjk.azurewebsites.net",
+  "APP_ID": "1fc91b93-38de-4cdb-80f3-f7ed474d83aa",
+  "APP_PASSWORD": "MQ36~J155f8._9r3i-65DJRoNU3DYrIBPs",
+  "RESULT_MEETINGLINK": "SendMeetingLinkResult.csv",
+  "RESULT_GO_ACCOUNT" :"GoAccountResult.csv",
+  "CSV_DATA": "JK_teams_userid.csv"
+}

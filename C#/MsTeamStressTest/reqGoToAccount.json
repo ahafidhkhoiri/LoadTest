@@ -1,0 +1,13 @@
+{
+  "name": "composeExtension/fetchTask",
+  "type": "invoke",
+  "channelId": "msteams",
+  "serviceUrl": "https:SomeUrls",
+  "value": {
+    "commandId": "SomeCommand",
+    "commandContext": "compose",
+    "context": {
+      "theme": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "MY_URL": "https://Azzure.net",
+  "APP_ID": "############",
+  "APP_PASSWORD": "###########",
+  "RESULT_MEETINGLINK": "SendMeetingLinkResult.csv",
+  "RESULT_GO_ACCOUNT" :"GoAccountResult.csv",
+  "CSV_DATA": "JK_teams_userid.csv"
+}
